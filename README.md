@@ -28,7 +28,11 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ### 💻 Programming
 
-#### 🔵 C/C++
+#### 🔵 C
 
 - [📘 C Programming A Modern Approach](/Programming/Languages/C_C++/C%20Programming%20A%20Modern%20Approach.pdf)
+- [🔗 Tutorial On Pointers And Arrays In C](https://github.com/jflaherty/ptrtut13)
+
+#### 🔵 C++
+
 - [🔗 LearnCpp.com (The best free tutorial teaching you how to program in modern C++)](https://www.learncpp.com/)
