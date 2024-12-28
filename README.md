@@ -18,7 +18,7 @@ Although I am an embedded systems student, I am also interested in other topics 
 📁 learning_resources
 ├── 📁 Programming
 │   ├── 📁 Languages
-│   │   ├── 📁 C_C++
+│   │   ├── 📁 C
 ```
 
 > [!WARNING]
