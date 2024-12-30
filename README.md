@@ -26,6 +26,12 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ---
 
+### 🕹️ Before making a start
+
+- [Introduction to Computer Science (YouTube Playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+---
+
 ### ⚡ Electronics
 
 #### 🔵 Math
@@ -39,6 +45,8 @@ Although I am an embedded systems student, I am also interested in other topics 
 - [🎞️ Introduction to Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLKL6KBeCnI3U6KNZEiitdtqvrxkBhpuOp)
 - [🔗 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
 - [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](/Electronics/Electric%20Circuits/Fundamentals%20of%20Electric%20Circuits%20(5th%20Ed).pdf)
+
+---
 
 ### 💻 Programming
 
