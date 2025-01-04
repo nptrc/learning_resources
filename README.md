@@ -22,13 +22,23 @@ Although I am an embedded systems student, I am also interested in other topics 
 ```
 
 > [!WARNING]
-> You don't need to read all the resources. You can choose the resources that you think will be useful to you.
+> You don't need to read all the resources. Just choose the resources that you think will be useful to you.
+
+> [!TIP]
+> To differentiate between the types of learning resources and the quality of their content, specific symbols are used before each item.
+>
+> **Resource types:**
+>
+> - 📘 : Books
+> - 🎞️ : Videos
+> - 📝 : Write-ups, articles, and blog posts
+> - 🔗 : Other links that do not fit into any of the above categories
 
 ---
 
 ### 🕹️ Before making a start
 
-- [Introduction to Computer Science (YouTube Playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [🎞️ Introduction to Computer Science (YouTube Playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ---
 
