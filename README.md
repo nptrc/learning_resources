@@ -36,6 +36,16 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ---
 
+### 🎥 Courses and YouTube Contents
+
+- [🎞️ element14 presents (YouTube Channel)](https://www.youtube.com/@element14presents)
+- [🎞️ Electrical Engineering (YouTube Channel)](https://www.youtube.com/@ElectricalEngineeringApp)
+
+- [🎞️ Coursera - Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/nand2tetris1)
+- [🎞️ Coursera - Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2)
+
+---
+
 ### 🕹️ Before making a start
 
 - [🎞️ Introduction to Computer Science (YouTube Playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
