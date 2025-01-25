@@ -74,6 +74,7 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 - [📘 C Programming A Modern Approach - K. N King](/Programming/Languages/C/C%20Programming%20A%20Modern%20Approach.pdf)
 - [📘 Embedded C Coding Standard](/Programming/Languages/C/Embedded%20C%20Coding%20Standard.pdf)
+- [🔗 NCURSES Programming HOWTO](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html)
 
 #### 🔵 C++
 
