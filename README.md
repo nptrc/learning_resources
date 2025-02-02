@@ -48,6 +48,7 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ### 🕹️ Before making a start
 
+- [🎞️ The Myth of the Genius Programmer](https://youtu.be/0SARbwvhupQ)
 - [🎞️ Introduction to Computer Science (YouTube Playlist)](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ---
