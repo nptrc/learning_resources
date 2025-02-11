@@ -71,6 +71,14 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ### 💻 Programming
 
+#### Practice sites
+
+- [🔗 Exercism](https://exercism.org)
+
+#### Tools
+
+- [📘 Practical Vim Edit Text at the Speed of Thought](/Programming/Tools/Vim/Practical%20Vim%20Edit%20Text%20at%20the%20Speed%20of%20Thought.pdf)
+
 #### 🔵 C
 
 - [📘 C Programming A Modern Approach - K. N King](/Programming/Languages/C/C%20Programming%20A%20Modern%20Approach.pdf)
