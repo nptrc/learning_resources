@@ -71,11 +71,11 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ### 💻 Programming
 
-#### Practice sites
+#### 🔵 Practice sites
 
 - [🔗 Exercism](https://exercism.org)
 
-#### Tools
+#### 🔵 Tools
 
 - [📘 Practical Vim Edit Text at the Speed of Thought](/Programming/Tools/Vim/Practical%20Vim%20Edit%20Text%20at%20the%20Speed%20of%20Thought.pdf)
 
