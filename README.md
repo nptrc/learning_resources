@@ -58,14 +58,14 @@ Although I am an embedded systems student, I am also interested in other topics 
 #### 🔵 Math
 
 - [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
-- [📘 Calculus For Dummies - Mark Ryan](/Electronics/Math/Calculus%20For%20Dummies.pdf)
-- [📘 Thomas' Calculus](/Electronics/Math/Thomas%20Calculus%2014th%20Edition.pdf)
+- [📘 Calculus For Dummies - Mark Ryan](./Electronics/Math/Calculus_For_Dummies.pdf)
+- [📘 Thomas' Calculus](./Electronics/Math/Calculus_For_Dummies.pdf)
 
 #### 🔵 Electric Circuits
 
 - [🎞️ Introduction to Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLKL6KBeCnI3U6KNZEiitdtqvrxkBhpuOp)
 - [🔗 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
-- [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](/Electronics/Electric%20Circuits/Fundamentals%20of%20Electric%20Circuits%20(5th%20Ed).pdf)
+- [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
 
 ---
 
@@ -77,12 +77,12 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 #### 🔵 Tools
 
-- [📘 Practical Vim Edit Text at the Speed of Thought](/Programming/Tools/Vim/Practical%20Vim%20Edit%20Text%20at%20the%20Speed%20of%20Thought.pdf)
+- [📘 Practical Vim Edit Text at the Speed of Thought](./Programming/Tools/Vim/Practical_Vim_Edit_Text_at_the_Speed_of_Thought.pdf)
 
 #### 🔵 C
 
-- [📘 C Programming A Modern Approach - K. N King](/Programming/Languages/C/C%20Programming%20A%20Modern%20Approach.pdf)
-- [📘 Embedded C Coding Standard](/Programming/Languages/C/Embedded%20C%20Coding%20Standard.pdf)
+- [📘 C Programming A Modern Approach - K. N King](./Programming/Languages/C/C_Programming_A_Modern_Approach.pdf)
+- [📘 Embedded C Coding Standard](./Programming/Languages/C/Embedded_C_Coding_Standard.pdf)
 - [🔗 NCURSES Programming HOWTO](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html)
 
 #### 🔵 C++
