@@ -59,7 +59,7 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 - [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
 - [📘 Calculus For Dummies - Mark Ryan](./Electronics/Math/Calculus_For_Dummies.pdf)
-- [📘 Thomas' Calculus](./Electronics/Math/Calculus_For_Dummies.pdf)
+- [📘 Thomas' Calculus](./Electronics/Math/Thomas_Calculus_14th_Edition.pdf)
 
 #### 🔵 Electric Circuits
 
