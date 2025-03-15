@@ -16,9 +16,14 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 ```txt
 📁 learning_resources
+├── 📁 Electronics
+│   ├── 📁 Electric Circuits
+│   ├── 📁 Math
 ├── 📁 Programming
 │   ├── 📁 Languages
 │   │   ├── 📁 C
+│   ├── 📁 Tools
+│   │   ├── 📁 Vim
 ```
 
 > [!WARNING]
@@ -57,7 +62,6 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 #### 🔵 Math
 
-- [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
 - [📘 Calculus For Dummies - Mark Ryan](./Electronics/Math/Calculus_For_Dummies.pdf)
 - [📘 Thomas' Calculus](./Electronics/Math/Thomas_Calculus_14th_Edition.pdf)
 
@@ -66,6 +70,7 @@ Although I am an embedded systems student, I am also interested in other topics 
 - [🎞️ Introduction to Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLKL6KBeCnI3U6KNZEiitdtqvrxkBhpuOp)
 - [🔗 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
 - [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
+  - This will be useful :) [solution](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits_solution.pdf)
 
 ---
 
