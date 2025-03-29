@@ -58,7 +58,8 @@ Although I am an embedded systems student, I am also interested in other topics 
 - [🎞️ Electric Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
 - [🎞️ More About Electric Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
 - [🔗 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
-- [📘 (The king here) Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
+- [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
+  - The king is here, hope you enjoy this book
   - This will be useful :) [solution](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits_solution.pdf)
 
 ---
