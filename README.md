@@ -12,19 +12,7 @@ I mainly follow the roadmap in this repository: [Embedded Systems Engineering Ro
 
 ## 📚 Resources
 
-Although I am an embedded systems student, I am also interested in other topics such as computer science, data science, machine learning, artificial intelligence, and so on. I will also share resources on these topics. You can see the folder structure below to navigate through the resources.
-
-```txt
-📁 learning_resources
-├── 📁 Electronics
-│   ├── 📁 Electric Circuits
-│   ├── 📁 Math
-├── 📁 Programming
-│   ├── 📁 Languages
-│   │   ├── 📁 C
-│   ├── 📁 Tools
-│   │   ├── 📁 Vim
-```
+Although I am an embedded systems student, I am also interested in other topics such as computer science, data science, machine learning, artificial intelligence, and so on. I will also share resources on these topics.
 
 > [!WARNING]
 > You don't need to read all the resources. Just choose the resources that you think will be useful to you.
@@ -67,9 +55,10 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 #### 🔵 Electric Circuits
 
-- [🎞️ Introduction to Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLKL6KBeCnI3U6KNZEiitdtqvrxkBhpuOp)
+- [🎞️ Electric Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
+- [🎞️ More About Electric Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
 - [🔗 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
-- [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
+- [📘 (The king here) Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
   - This will be useful :) [solution](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits_solution.pdf)
 
 ---
