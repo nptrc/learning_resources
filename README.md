@@ -55,8 +55,9 @@ Although I am an embedded systems student, I am also interested in other topics 
 
 #### 🔵 Electric Circuits
 
-- [🎞️ Electric Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
-- [🎞️ More About Electric Circuits (YouTube Playlist)](https://www.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
+- [🎞️ Electric Circuits - Physics Videos by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt8DFH9QysGWm4h_DOxT93fb)
+- [🎞️ More About Electric Circuits - Physics Videos by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLkyBCj4JhHt-4PnnwpbG-ZKV_EjX03DX8)
+- [🎞️ Electronic Circuits by The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BV9E-N8tSExU1djL6slnjbL)
 - [🔗 Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
 - [📘 Fundamentals of Electric Circuits - Charles K. Alexander, Matthew Sadiku](./Electronics/Electric_Circuits/Fundamentals_of_Electric_Circuits.pdf)
   - The king is here, hope you enjoy this book
