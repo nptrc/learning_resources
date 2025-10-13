@@ -41,6 +41,7 @@
 - [Fundamentals of Electric Circuits 5th](./Electronics/Fundamentals_of_Electric_Circuits_5th.pdf)
   - [Fundamentals of Electric Circuits 5th Solution](./Electronics/Fundamentals_of_Electric_Circuits_5th_Solution.pdf)
 - [Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
+- [Semiconductor Basics (Youtube Playlist)](https://www.youtube.com/playlist?list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [ElectroBOOM (Youtube Channel)](https://www.youtube.com/@ElectroBOOM)
 - [ALL ABOUT ELECTRONICS - Quiz (Youtube Channel)](https://www.youtube.com/@allaboutelectronics-quiz)
