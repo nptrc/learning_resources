@@ -31,17 +31,26 @@
 
 ## Math
 
-- [Calculus For Dummies 2nd](./Math/Calculus_For_Dummies_2nd.pdf)
+- [ ] [Mathematics for Machine Learning](./Math/Mathematics for Machine Learning.pdf)
+- [ ] [Calculus For Dummies 2nd](./Math/Calculus_For_Dummies_2nd.pdf)
+- [ ] [Introduction to Linear Algebra 6th](./Math/Introduction_to_Linear_Algebra_6th.pdf)
+- [ ] [Linear Algebra And Its Applications 6th](./Math/Linear_Algebra_And_Its_Applications_6th.pdf)
+- [ ] [Linear Algebra Done Right 4th](./Math/Linear_Algebra_Done_Right_4th.pdf)
+- [ ] [Thomas Calculus 14th](./Math/Thomas_Calculus_14th.pdf)
+
 - [Brain Station Advanced (Youtube Channel)](https://www.youtube.com/@BrainStationAdvanced/videos)
 
 ## Electronics
 
-- [Basic Circuit Theory I (By Prof. Razavi) (Youtube Playlist)](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x)
+- [ ] [Basic Circuit Theory I (By Prof. Razavi) (Youtube Playlist)](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x)
 - [CircuitBread](https://www.youtube.com/@CircuitBread)
-- [Fundamentals of Electric Circuits 5th](./Electronics/Fundamentals_of_Electric_Circuits_5th.pdf)
+  - [Semiconductor Basics (Youtube Playlist)](https://www.youtube.com/playlist?list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
+- [ ] [Fundamentals of Electric Circuits 5th](./Electronics/Fundamentals_of_Electric_Circuits_5th.pdf)
   - [Fundamentals of Electric Circuits 5th Solution](./Electronics/Fundamentals_of_Electric_Circuits_5th_Solution.pdf)
+- [ ] [Practical Electronics for Inventors 4th](./Electronics/Practical_Electronics_for_Inventors_4th.pdf)
+- [ ] [The Art Of Electronics 3rd](./Electronics/The_Art_Of_Electronics_3rd.pdf)
+  - [ ] [Student Manual for The Art of Electronics](./Electronics/Student_Manual_for_The_Art_of_Electronics.pdf)
 - [Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
-- [Semiconductor Basics (Youtube Playlist)](https://www.youtube.com/playlist?list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
 - [Electronics Tutorials](https://www.electronics-tutorials.ws/)
 - [ElectroBOOM (Youtube Channel)](https://www.youtube.com/@ElectroBOOM)
 - [ALL ABOUT ELECTRONICS - Quiz (Youtube Channel)](https://www.youtube.com/@allaboutelectronics-quiz)
@@ -53,6 +62,15 @@
 ### C
 
 - [C Programming A Modern Approach 2nd](./Programming/Languages/C/C_Programming_A_Modern_Approach_2nd.pdf)
+- [ ] [C Interfaces And Implementations](./Programming/Languages/C/C_Interfaces_And_Implementations.pdf)
+- [ ] [Data Structures And Algorithm Analysis In C 2nd](./Programming/Languages/C/Data_Structures_And_Algorithm_Analysis_In_C_2nd.pdf)
+- [ ] [Data Structures Using C 2nd](./Programming/Languages/C/Data_Structures_Using_C_2nd.pdf)
+- [ ] [Embedded C Coding Standard](./Programming/Languages/C/Embedded_C_Coding_Standard.pdf)
+- [ ] [Expert C Programming Deep C Secrets](./Programming/Languages/C/Expert_C_Programming_Deep_C_Secrets.pdf)
+- [ ] [Bare-Metal Embedded C Programming (2024)](./Programming/Languages/C/Bare_Metal_Embedded_C_Programming_2024.pdf)
+- [ ] [Low Level Programming](./Programming/Languages/C/Low_Level_Programming.pdf)
+- [ ] [Modern C](./Programming/Languages/C/Modern_C.pdf)
+
 - [TSodingDaily - The GOAT of C (Youtube Channel)](https://www.youtube.com/@TsodingDaily)
 - [HirschDaniel (Youtube Channel)](https://www.youtube.com/@HirschDaniel)
 - [dr Jonas Birch](https://www.youtube.com/@dr-Jonas-Birch)
