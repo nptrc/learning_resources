@@ -31,7 +31,7 @@
 
 ## Math
 
-- [ ] [Mathematics for Machine Learning](./Math/Mathematics for Machine Learning.pdf)
+- [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf.pdf)
 - [ ] [Calculus For Dummies 2nd](./Math/Calculus_For_Dummies_2nd.pdf)
 - [ ] [Introduction to Linear Algebra 6th](./Math/Introduction_to_Linear_Algebra_6th.pdf)
 - [ ] [Linear Algebra And Its Applications 6th](./Math/Linear_Algebra_And_Its_Applications_6th.pdf)
