@@ -78,7 +78,7 @@
 
 ### C++
 
-- ["learncpp.com (the best free tutorial to learn C++)"](https://www.learncpp.com)
+- [learncpp.com (the best free tutorial to learn C++)](https://www.learncpp.com)
 - [C++ Weekly With Jason Turner (Youtube Channel)](https://www.youtube.com/@cppweekly)
 
 ### Python
