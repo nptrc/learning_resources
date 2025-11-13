@@ -92,3 +92,7 @@
 ## AI
 
 - [Việt Nguyễn AI (Youtube Channel)](https://www.youtube.com/@vietnh1009)
+
+### Computer Vision
+
+- [What is the state of AI in computer vision?](https://www.louisbouchard.ai/ai-in-computer-vision/)
