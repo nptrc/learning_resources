@@ -21,6 +21,7 @@
 - [Branch Education](https://www.youtube.com/@BranchEducation)
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/featured)
+- [ScienceClic English](https://www.youtube.com/@ScienceClicEN)
 
 ## Websites
 
