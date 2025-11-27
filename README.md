@@ -4,6 +4,7 @@
 
 - [Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/)
 - [Reddit · r/embedded](https://www.reddit.com/r/embedded/)
+- [Reddit · r/robotics](https://www.reddit.com/r/robotics/)
 
 ## Career Development
 
@@ -22,6 +23,7 @@
 - [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo/featured)
 - [ScienceClic English](https://www.youtube.com/@ScienceClicEN)
+- [The Efficient Engineer](https://www.youtube.com/@TheEfficientEngineer)
 
 ## Websites
 
@@ -32,12 +34,13 @@
 
 ## Math
 
-- [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf)
-- [ ] [Calculus For Dummies 2nd](./Math/Calculus_For_Dummies_2nd.pdf)
 - [ ] [Introduction to Linear Algebra 6th](./Math/Introduction_to_Linear_Algebra_6th.pdf)
 - [ ] [Linear Algebra And Its Applications 6th](./Math/Linear_Algebra_And_Its_Applications_6th.pdf)
 - [ ] [Linear Algebra Done Right 4th](./Math/Linear_Algebra_Done_Right_4th.pdf)
 - [ ] [Thomas Calculus 14th](./Math/Thomas_Calculus_14th.pdf)
+- [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf)
+- [Understanding Calculus (for engineers)](https://youtu.be/C9oWXIs2g3Y)
+- [Extrinsic & intrinsic rotation: Do I multiply from right or left?](https://dominicplein.medium.com/extrinsic-intrinsic-rotation-do-i-multiply-from-right-or-left-357c38c1abfd)
 
 - [Brain Station Advanced (Youtube Channel)](https://www.youtube.com/@BrainStationAdvanced/videos)
 
@@ -97,3 +100,9 @@
 ### Computer Vision
 
 - [What is the state of AI in computer vision?](https://www.louisbouchard.ai/ai-in-computer-vision/)
+- [Computer Vision: The Camera Matrix](https://youtu.be/Hz8kz5aeQ44)
+
+### Robotics
+
+- [Robotics - Brain Station Advanced (Youtube Playlist)](https://www.youtube.com/playlist?list=PLJv0I6tVORGcFjHyhae7CQvh4AedhMUSJ)
+- [Robotics - ThatsEngineering (Youtube Playlist)](https://www.youtube.com/playlist?list=PLZaGkBteQK3HQFSWDM7-yRQWTd86DeDIY)
