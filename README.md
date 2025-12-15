@@ -95,6 +95,7 @@
 
 ## AI
 
+- [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54)
 - [Việt Nguyễn AI (Youtube Channel)](https://www.youtube.com/@vietnh1009)
 
 ### Computer Vision
