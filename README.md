@@ -39,6 +39,8 @@
 - [ ] [Linear Algebra Done Right 4th](./Math/Linear_Algebra_Done_Right_4th.pdf)
 - [ ] [Thomas Calculus 14th](./Math/Thomas_Calculus_14th.pdf)
 - [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf)
+
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Understanding Calculus (for engineers)](https://youtu.be/C9oWXIs2g3Y)
 - [Extrinsic & intrinsic rotation: Do I multiply from right or left?](https://dominicplein.medium.com/extrinsic-intrinsic-rotation-do-i-multiply-from-right-or-left-357c38c1abfd)
 
