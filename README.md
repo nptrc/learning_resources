@@ -56,8 +56,8 @@
 - [ ] [Practical Electronics for Inventors 4th](./Electronics/Practical_Electronics_for_Inventors_4th.pdf)
 - [ ] [The Art Of Electronics 3rd](./Electronics/The_Art_Of_Electronics_3rd.pdf)
   - [ ] [Student Manual for The Art of Electronics](./Electronics/Student_Manual_for_The_Art_of_Electronics.pdf)
-- [Lessons in Electric Circuits (All About Circuits)](https://www.allaboutcircuits.com/textbook/)
-- [Electronics Tutorials](https://www.electronics-tutorials.ws/)
+- [Sequential Circuits](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCCpnnybEztvRqxpMyfgarS)
+
 - [ElectroBOOM (Youtube Channel)](https://www.youtube.com/@ElectroBOOM)
 - [ALL ABOUT ELECTRONICS - Quiz (Youtube Channel)](https://www.youtube.com/@allaboutelectronics-quiz)
 - [Prof MAD (Youtube Channel)](https://www.youtube.com/@Profmad)
@@ -95,9 +95,12 @@
 
 - [Core Dumped](https://www.youtube.com/@CoreDumpped)
 
+- [From Nand to Tetris Part 1](https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI)
+
 ## AI
 
 - [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54)
+- [Neural networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Việt Nguyễn AI (Youtube Channel)](https://www.youtube.com/@vietnh1009)
 
 ### Computer Vision
