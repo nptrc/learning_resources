@@ -34,9 +34,8 @@
 
 ## Math
 
-- [ ] [Introduction to Linear Algebra 6th](./Math/Introduction_to_Linear_Algebra_6th.pdf)
-- [ ] [Linear Algebra And Its Applications 6th](./Math/Linear_Algebra_And_Its_Applications_6th.pdf)
-- [ ] [Linear Algebra Done Right 4th](./Math/Linear_Algebra_Done_Right_4th.pdf)
+- [Elementary Linear Algebra Applications 11th](./Math/Elementary_Linear_Algebra_Applications_11th.pdf)
+  - [Life saver](https://www.slideshare.net/slideshow/answers-to-problems-in-elementary-linear-algebra-12th-edition-by-anton/275698211)
 - [ ] [Thomas Calculus 14th](./Math/Thomas_Calculus_14th.pdf)
 - [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf)
 
