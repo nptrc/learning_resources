@@ -35,7 +35,7 @@
 ## Math
 
 - [Elementary Linear Algebra Applications 11th](./Math/Elementary_Linear_Algebra_Applications_11th.pdf)
-  - [Life saver](https://www.slideshare.net/slideshow/answers-to-problems-in-elementary-linear-algebra-12th-edition-by-anton/275698211)
+  - [Elementary Linear Algebra Applications 11th Solution](https://www.slideshare.net/slideshow/answers-to-problems-in-elementary-linear-algebra-12th-edition-by-anton/275698211)
 - [ ] [Thomas Calculus 14th](./Math/Thomas_Calculus_14th.pdf)
 - [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf)
 
@@ -98,7 +98,7 @@
 
 ## AI
 
-- [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54)
+- [The moment we stopped understanding AI \[AlexNet\]](https://youtu.be/UZDiGooFs54)
 - [Neural networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Việt Nguyễn AI (Youtube Channel)](https://www.youtube.com/@vietnh1009)
 
