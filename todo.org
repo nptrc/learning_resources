@@ -1,0 +1,39 @@
+* Digital
+1. ./Computer_Architecture/Digital_Design_Global_Edition_Morris_6th.pdf
+3. ./Computer_Architecture/Digital_Systems_Tocci_12th.pdf
+3. ./Computer_Architecture/Digital_Design_and_Computer_Architecture_ARM_Edition.pdf
+
+* Electronic
+1. ./Electronics/Fundamentals_of_Electric_Circuits_5th.pdf
+2. ./Electronics/Electronic_Devices_Conventional_Current_Version_10th.pdf
+3. ./Electronics/Microelectronics_Circuit_Analysis_and_Design.pdf
+4. ./Electronics/Practical_Electronics_for_Inventors_4th.pdf
+5. ./Electronics/The_Art_Of_Electronics_3rd.pdf
+6. ./Electronics/Student_Manual_for_The_Art_of_Electronics.pdf
+7. ./Electronics/Pulse_and_Digital_Switching_Waveforms_1965.pdf
+8. ./Electronics/Pulse_and_Digital_Circuits_1956.pdf
+9. ./Electronics/Solid_state_pulse_circuit.pdf
+
+* Control theory
+1. ./Control_Theory/Control_Systems_Engineering_7th.pdf
+2. ./Control_Theory/Modern_Control_System_13th.pdf
+
+* Math
+1. ./Math/Elementary_Linear_Algebra_Applications_11th.pdf
+2. ./Math/Thomas_Calculus_14th.pdf
+3. ./Math/Mathematics_for_Machine_Learning.pdf
+
+* Physics
+1. ./Physics/Classical_Mechanics_Taylor.pdf
+2. ./Physics/Classical_Mechanics_Goldstein.pdf
+3. ./Physics/Physics_for_Scientists_7th.pdf
+
+* C
+1. ./Programming/Languages/C/C_Programming_A_Modern_Approach_2nd.pdf
+2. ./Programming/Languages/C/Data_Structures_Using_C_2nd.pdf
+3. ./Programming/Languages/C/Data_Structures_And_Algorithm_Analysis_In_C_2nd.pdf
+4. ./Programming/Languages/C/C_Interfaces_And_Implementations.pdf
+5. ./Programming/Languages/C/Bare_Metal_Embedded_C_Programming_2024.pdf
+6. ./Programming/Languages/C/Embedded_C_Coding_Standard.pdf
+7. ./Programming/Languages/C/Expert_C_Programming_Deep_C_Secrets.pdf
+8. ./Programming/Languages/C/Low_Level_Programming.pdf
