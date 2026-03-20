@@ -24,9 +24,9 @@
 3. ./Math/Mathematics_for_Machine_Learning.pdf
 
 * Physics
-1. ./Physics/Classical_Mechanics_Taylor.pdf
-2. ./Physics/Classical_Mechanics_Goldstein.pdf
-3. ./Physics/Physics_for_Scientists_7th.pdf
+1. ./Physics/Physics_for_Scientists_7th.pdf
+2. ./Physics/Classical_Mechanics_Taylor.pdf
+3. ./Physics/Classical_Mechanics_Goldstein.pdf
 
 * C
 1. ./Programming/Languages/C/C_Programming_A_Modern_Approach_2nd.pdf
