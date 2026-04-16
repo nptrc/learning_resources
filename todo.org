@@ -1,10 +1,16 @@
-* Digital
+Soft Computing
+
+[[https://youtu.be/SmZmBKc7Lrs][The Most Important Algorithm in Machine Learning]]
+[[https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/][A Step by Step Backpropagation Example]]
+
+* Computer Architecture
 1. ./Computer_Architecture/Digital_Design_Global_Edition_Morris_6th.pdf
 3. ./Computer_Architecture/Digital_Systems_Tocci_12th.pdf
 3. ./Computer_Architecture/Digital_Design_and_Computer_Architecture_ARM_Edition.pdf
 
 * Electronic
 1. ./Electronics/Fundamentals_of_Electric_Circuits_5th.pdf
+    ./Electronics/Fundamentals_of_Electric_Circuits_5th_Solution.pdf
 2. ./Electronics/Electronic_Devices_Conventional_Current_Version_10th.pdf
 3. ./Electronics/Microelectronics_Circuit_Analysis_and_Design.pdf
 4. ./Electronics/Practical_Electronics_for_Inventors_4th.pdf
@@ -19,14 +25,28 @@
 2. ./Control_Theory/Modern_Control_System_13th.pdf
 
 * Math
-1. ./Math/Elementary_Linear_Algebra_Applications_11th.pdf
-2. ./Math/Thomas_Calculus_14th.pdf
-3. ./Math/Mathematics_for_Machine_Learning.pdf
+** Linear Algebra
+1. ./Math/Schaums_Outlines_Linear_Algebra_6th.pdf
+2. ./Math/Elementary_Linear_Algebra_Applications_11th.pdf
+    ./Math/Elementary_Linear_Algebra_Applications_Solution.pdf
+4. ./Math/Applied_Linear_Algebra_2nd.pdf
+5. ./Math/Linear_Algebra_and_Its_Applications_4th.pdf
+6. ./Math/Linear_Algebra_Lang_3rd.pdf
+6. ./Math/Linear_Algebra_Done_Right.pdf
+
+** Calculus
+1. ./Math/Schaums_Outlines_Calculus_7th.pdf
+2. ./Math/Stewart_Calculus_Early_Transcendentals_9th.pdf
+3. ./Math/Thomas_Calculus_14th.pdf
+4. ./Math/Mathematics_for_Machine_Learning.pdf
 
 * Physics
-1. ./Physics/Physics_for_Scientists_7th.pdf
-2. ./Physics/Classical_Mechanics_Taylor.pdf
-3. ./Physics/Classical_Mechanics_Goldstein.pdf
+1. ./Physics/Fundamentals_of_Physics_10th.pdf
+2. ./Physics/Physics_for_Scientists_7th.pdf
+3. ./Physics/Classical_Mechanics_Taylor.pdf
+4. ./Physics/Classical_Mechanics_Goldstein.pdf
+5. ./Physics/Introduction_to_Electrodynamics_4th.pdf
+6. ./Physics/Introduction_to_Quantum_Mechanics_3rd.pdf
 
 * C
 1. ./Programming/Languages/C/C_Programming_A_Modern_Approach_2nd.pdf
