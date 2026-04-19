@@ -9,6 +9,7 @@
 ## Career Development
 
 - [EmbeddedJobs](https://embedded.jobs/jobs)
+- [itviec](https://itviec.com/vi)
 - [TheEmbeDEADInterview](https://github.com/imsunilvaghela/TheEmbeDEADInterview)
 
 ## YouTube Channels
