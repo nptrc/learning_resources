@@ -35,11 +35,6 @@
 
 ## Math
 
-- [Elementary Linear Algebra Applications 11th](./Math/Elementary_Linear_Algebra_Applications_11th.pdf)
-  - [Elementary Linear Algebra Applications 11th Solution](https://www.slideshare.net/slideshow/answers-to-problems-in-elementary-linear-algebra-12th-edition-by-anton/275698211)
-- [ ] [Thomas Calculus 14th](./Math/Thomas_Calculus_14th.pdf)
-- [ ] [Mathematics for Machine Learning](./Math/Mathematics_for_Machine_Learning.pdf)
-
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Understanding Calculus (for engineers)](https://youtu.be/C9oWXIs2g3Y)
 - [Extrinsic & intrinsic rotation: Do I multiply from right or left?](https://dominicplein.medium.com/extrinsic-intrinsic-rotation-do-i-multiply-from-right-or-left-357c38c1abfd)
@@ -48,14 +43,9 @@
 
 ## Electronics
 
-- [ ] [Basic Circuit Theory I (By Prof. Razavi) (Youtube Playlist)](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x)
+- [Basic Circuit Theory I (By Prof. Razavi) (Youtube Playlist)](https://www.youtube.com/playlist?list=PL9KyzjPFbwH37w22z-UHVEt37pdJHjZ7x)
 - [CircuitBread](https://www.youtube.com/@CircuitBread)
   - [Semiconductor Basics (Youtube Playlist)](https://www.youtube.com/playlist?list=PLfYdTiQCV_p7sDswtLZKK43BWOd2mTmHC)
-- [ ] [Fundamentals of Electric Circuits 5th](./Electronics/Fundamentals_of_Electric_Circuits_5th.pdf)
-  - [Fundamentals of Electric Circuits 5th Solution](./Electronics/Fundamentals_of_Electric_Circuits_5th_Solution.pdf)
-- [ ] [Practical Electronics for Inventors 4th](./Electronics/Practical_Electronics_for_Inventors_4th.pdf)
-- [ ] [The Art Of Electronics 3rd](./Electronics/The_Art_Of_Electronics_3rd.pdf)
-  - [ ] [Student Manual for The Art of Electronics](./Electronics/Student_Manual_for_The_Art_of_Electronics.pdf)
 - [Sequential Circuits](https://www.youtube.com/playlist?list=PLwjK_iyK4LLCCpnnybEztvRqxpMyfgarS)
 
 - [ElectroBOOM (Youtube Channel)](https://www.youtube.com/@ElectroBOOM)
@@ -66,16 +56,6 @@
 ## Programming
 
 ### C
-
-- [C Programming A Modern Approach 2nd](./Programming/Languages/C/C_Programming_A_Modern_Approach_2nd.pdf)
-- [ ] [C Interfaces And Implementations](./Programming/Languages/C/C_Interfaces_And_Implementations.pdf)
-- [ ] [Data Structures And Algorithm Analysis In C 2nd](./Programming/Languages/C/Data_Structures_And_Algorithm_Analysis_In_C_2nd.pdf)
-- [ ] [Data Structures Using C 2nd](./Programming/Languages/C/Data_Structures_Using_C_2nd.pdf)
-- [ ] [Embedded C Coding Standard](./Programming/Languages/C/Embedded_C_Coding_Standard.pdf)
-- [ ] [Expert C Programming Deep C Secrets](./Programming/Languages/C/Expert_C_Programming_Deep_C_Secrets.pdf)
-- [ ] [Bare-Metal Embedded C Programming (2024)](./Programming/Languages/C/Bare_Metal_Embedded_C_Programming_2024.pdf)
-- [ ] [Low Level Programming](./Programming/Languages/C/Low_Level_Programming.pdf)
-- [ ] [Modern C](./Programming/Languages/C/Modern_C.pdf)
 
 - [TSodingDaily - The GOAT of C (Youtube Channel)](https://www.youtube.com/@TsodingDaily)
 - [HirschDaniel (Youtube Channel)](https://www.youtube.com/@HirschDaniel)
