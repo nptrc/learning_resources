@@ -82,6 +82,7 @@
 - [The moment we stopped understanding AI \[AlexNet\]](https://youtu.be/UZDiGooFs54)
 - [Neural networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Việt Nguyễn AI (Youtube Channel)](https://www.youtube.com/@vietnh1009)
+- [Recurrent Neural Networks (RNNs), Clearly Explained!!!](https://youtu.be/AsNTP8Kwu80)
 
 ### Computer Vision
 
