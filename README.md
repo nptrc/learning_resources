@@ -12,6 +12,10 @@
 - [itviec](https://itviec.com/vi)
 - [TheEmbeDEADInterview](https://github.com/imsunilvaghela/TheEmbeDEADInterview)
 
+## Skills
+
+- [HowtoReadPaper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
 ## YouTube Channels
 
 - [FluxBench](https://www.youtube.com/@FluxBench)
